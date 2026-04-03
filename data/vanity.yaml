@@ -1,46 +1,4 @@
-host: kubeops.dev
+host: go.open-pulse.dev
 paths:
-  /auditor:
-    repo: https://github.com/kubeops/auditor
-  /cert-lister:
-    repo: https://github.com/kubeops/cert-lister
-  /cluster-connector:
-    repo: https://github.com/kubeops/cluster-connector
-  /csi-driver-cacerts:
-    repo: https://github.com/kubeops/csi-driver-cacerts
-  /external-dns-operator:
-    repo: https://github.com/kubeops/external-dns-operator
-  /falco-ui-server:
-    repo: https://github.com/kubeops/falco-ui-server
-  /fargocd:
-    repo: https://github.com/kubeops/fargocd
-  /fsloader:
-    repo: https://github.com/kubeops/fsloader
   /installer:
-    repo: https://github.com/kubeops/installer
-  /kubed:
-    repo: https://github.com/kubeops/kubed
-  /operator-shard-manager:
-    repo: https://github.com/kubeops/operator-shard-manager
-  /panopticon:
-    repo: https://github.com/kubeops/panopticon
-  /petset:
-    repo: https://github.com/kubeops/petset
-  /pgoutbox:
-    repo: https://github.com/kubeops/pgoutbox
-    versions:
-    - apis
-  /resource-calculator:
-    repo: https://github.com/kubeops/resource-calculator
-  /scanner:
-    repo: https://github.com/kubeops/scanner
-  /sidekick:
-    repo: https://github.com/kubeops/sidekick
-  /supervisor:
-    repo: https://github.com/kubeops/supervisor
-  /taskqueue:
-    repo: https://github.com/kubeops/taskqueue
-  /ui-server:
-    repo: https://github.com/kubeops/ui-server
-  /vcluster-plugin:
-    repo: https://github.com/kubeops/vcluster-plugin
+    repo: https://github.com/opnpulse/installer
