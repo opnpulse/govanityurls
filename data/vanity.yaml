@@ -1,4 +1,8 @@
 host: go.open-pulse.dev
 paths:
+  /inbox-agent:
+    repo: https://github.com/opnpulse/inbox-agent
   /installer:
     repo: https://github.com/opnpulse/installer
+  /james-go-client:
+    repo: https://github.com/opnpulse/james-go-client
