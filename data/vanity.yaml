@@ -6,3 +6,5 @@ paths:
     repo: https://github.com/opnpulse/installer
   /james-go-client:
     repo: https://github.com/opnpulse/james-go-client
+  /tenant-operator:
+    repo: https://github.com/opnpulse/tenant-operator
